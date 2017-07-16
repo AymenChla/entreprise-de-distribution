@@ -1,0 +1,7 @@
+ajouter plusieur ville dans la base de donnée => formulaire enregistrer + modifierAdresse
+verifier les emails avant l'inscription [DONE]
+afficher la barre modifier avec succes seulement apres confirmation d'ajout dans la base (src prb => ajax+validator)
+trouver une solution BootstrapValidator + ajax pour les formulaire[DONE]
+le password doit etre different de l'email[DONE]
+ajouter message success pour modification carnet [DONE]
+ajouter systeme de pagination [DONE]
